@@ -1,0 +1,156 @@
+{
+  "day": 0,
+  "seed": 918273,
+  "generatedAtUtc": "2026-07-11T17:22:20.2597755Z",
+  "stocks": [
+    {
+      "ticker": "NXT",
+      "price": 101.51,
+      "changePercent": 1.51,
+      "sectorTrend": -0.1515
+    },
+    {
+      "ticker": "QBT",
+      "price": 83.5,
+      "changePercent": -1.76,
+      "sectorTrend": -0.1515
+    },
+    {
+      "ticker": "OAI",
+      "price": 122.96,
+      "changePercent": 2.47,
+      "sectorTrend": -0.1515
+    },
+    {
+      "ticker": "SNS",
+      "price": 70.61,
+      "changePercent": 0.87,
+      "sectorTrend": -0.1515
+    },
+    {
+      "ticker": "GVT",
+      "price": 60.73,
+      "changePercent": 1.22,
+      "sectorTrend": 0.0047
+    },
+    {
+      "ticker": "TMO",
+      "price": 121.29,
+      "changePercent": 1.08,
+      "sectorTrend": 0.0047
+    },
+    {
+      "ticker": "SRC",
+      "price": 46.37,
+      "changePercent": 3.04,
+      "sectorTrend": 0.0047
+    },
+    {
+      "ticker": "HYD",
+      "price": 94.82,
+      "changePercent": -0.19,
+      "sectorTrend": 0.0047
+    },
+    {
+      "ticker": "APX",
+      "price": 90.24,
+      "changePercent": 0.27,
+      "sectorTrend": -0.1036
+    },
+    {
+      "ticker": "STC",
+      "price": 109.78,
+      "changePercent": -0.2,
+      "sectorTrend": -0.1036
+    },
+    {
+      "ticker": "NVA",
+      "price": 75.18,
+      "changePercent": 0.24,
+      "sectorTrend": -0.1036
+    },
+    {
+      "ticker": "CRD",
+      "price": 65.3,
+      "changePercent": 0.46,
+      "sectorTrend": -0.1036
+    },
+    {
+      "ticker": "MDV",
+      "price": 74.89,
+      "changePercent": -0.15,
+      "sectorTrend": 0.5273
+    },
+    {
+      "ticker": "BGN",
+      "price": 50.43,
+      "changePercent": 0.86,
+      "sectorTrend": 0.5273
+    },
+    {
+      "ticker": "CRP",
+      "price": 105.28,
+      "changePercent": 0.27,
+      "sectorTrend": 0.5273
+    },
+    {
+      "ticker": "HLT",
+      "price": 95.51,
+      "changePercent": 0.54,
+      "sectorTrend": 0.5273
+    },
+    {
+      "ticker": "FMC",
+      "price": 70.53,
+      "changePercent": 0.76,
+      "sectorTrend": 0.5769
+    },
+    {
+      "ticker": "UBN",
+      "price": 81.32,
+      "changePercent": 1.65,
+      "sectorTrend": 0.5769
+    },
+    {
+      "ticker": "GLC",
+      "price": 131.56,
+      "changePercent": 1.2,
+      "sectorTrend": 0.5769
+    },
+    {
+      "ticker": "LUX",
+      "price": 152.41,
+      "changePercent": 1.61,
+      "sectorTrend": 0.5769
+    }
+  ],
+  "news": [
+    {
+      "id": "d0-news-0",
+      "category": "Energy",
+      "impactLevel": "Moderate",
+      "headline": "the Energy sector sees moderate boost amid strong outlook",
+      "body": "Analysts note positive sentiment around the Energy sector, citing energy-related developments.",
+      "affectedTickers": [
+        "GVT",
+        "TMO",
+        "SRC",
+        "HYD"
+      ]
+    },
+    {
+      "id": "d0-news-1",
+      "category": "Consumer",
+      "impactLevel": "Minor",
+      "headline": "the Consumer sector sees minor boost amid strong outlook",
+      "body": "Analysts note positive sentiment around the Consumer sector, citing consumer-related developments.",
+      "affectedTickers": [
+        "FMC",
+        "UBN",
+        "GLC",
+        "LUX"
+      ]
+    }
+  ],
+  "marketSummary": "Day 0: market up 0.79% on average. SRC led gains (+3.04%), QBT lagged (-1.76%)."
+}
