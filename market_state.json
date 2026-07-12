@@ -1,138 +1,161 @@
 {
-  "day": 1,
+  "day": 2,
   "seed": 918273,
-  "generatedAtUtc": "2026-07-11T17:49:02.0831080Z",
+  "generatedAtUtc": "2026-07-12T10:18:53.5424000Z",
   "stocks": [
     {
       "ticker": "NXT",
-      "price": 103.59,
-      "changePercent": 2.05,
-      "sectorTrend": 0.7269
+      "price": 103.99,
+      "changePercent": 0.39,
+      "sectorTrend": -1.1234
     },
     {
       "ticker": "QBT",
-      "price": 84.76,
-      "changePercent": 1.51,
-      "sectorTrend": 0.7269
+      "price": 84.13,
+      "changePercent": -0.74,
+      "sectorTrend": -1.1234
     },
     {
       "ticker": "OAI",
-      "price": 124.94,
-      "changePercent": 1.61,
-      "sectorTrend": 0.7269
+      "price": 122.87,
+      "changePercent": -1.66,
+      "sectorTrend": -1.1234
     },
     {
       "ticker": "SNS",
       "price": 71.72,
-      "changePercent": 1.57,
-      "sectorTrend": 0.7269
+      "changePercent": 0.0,
+      "sectorTrend": -1.1234
     },
     {
       "ticker": "GVT",
-      "price": 60.6,
-      "changePercent": -0.21,
-      "sectorTrend": 0.094
+      "price": 60.63,
+      "changePercent": 0.05,
+      "sectorTrend": -1.112
     },
     {
       "ticker": "TMO",
-      "price": 120.8,
-      "changePercent": -0.4,
-      "sectorTrend": 0.094
+      "price": 120.35,
+      "changePercent": -0.37,
+      "sectorTrend": -1.112
     },
     {
       "ticker": "SRC",
-      "price": 46.77,
-      "changePercent": 0.86,
-      "sectorTrend": 0.094
+      "price": 45.34,
+      "changePercent": -3.06,
+      "sectorTrend": -1.112
     },
     {
       "ticker": "HYD",
-      "price": 94.56,
-      "changePercent": -0.27,
-      "sectorTrend": 0.094
+      "price": 94.31,
+      "changePercent": -0.26,
+      "sectorTrend": -1.112
     },
     {
       "ticker": "APX",
-      "price": 90.76,
-      "changePercent": 0.58,
-      "sectorTrend": 0.5176
+      "price": 90.18,
+      "changePercent": -0.64,
+      "sectorTrend": -0.0568
     },
     {
       "ticker": "STC",
-      "price": 109.9,
-      "changePercent": 0.11,
-      "sectorTrend": 0.5176
+      "price": 110.21,
+      "changePercent": 0.28,
+      "sectorTrend": -0.0568
     },
     {
       "ticker": "NVA",
-      "price": 74.7,
-      "changePercent": -0.64,
-      "sectorTrend": 0.5176
+      "price": 74.93,
+      "changePercent": 0.31,
+      "sectorTrend": -0.0568
     },
     {
       "ticker": "CRD",
-      "price": 64.92,
-      "changePercent": -0.58,
-      "sectorTrend": 0.5176
+      "price": 65.0,
+      "changePercent": 0.12,
+      "sectorTrend": -0.0568
     },
     {
       "ticker": "MDV",
-      "price": 75.31,
-      "changePercent": 0.56,
-      "sectorTrend": -0.148
+      "price": 75.37,
+      "changePercent": 0.08,
+      "sectorTrend": -0.0173
     },
     {
       "ticker": "BGN",
-      "price": 50.18,
-      "changePercent": -0.5,
-      "sectorTrend": -0.148
+      "price": 49.73,
+      "changePercent": -0.9,
+      "sectorTrend": -0.0173
     },
     {
       "ticker": "CRP",
-      "price": 105.68,
-      "changePercent": 0.38,
-      "sectorTrend": -0.148
+      "price": 105.26,
+      "changePercent": -0.4,
+      "sectorTrend": -0.0173
     },
     {
       "ticker": "HLT",
-      "price": 95.73,
-      "changePercent": 0.23,
-      "sectorTrend": -0.148
+      "price": 95.03,
+      "changePercent": -0.73,
+      "sectorTrend": -0.0173
     },
     {
       "ticker": "FMC",
-      "price": 69.99,
-      "changePercent": -0.77,
-      "sectorTrend": -1.1778
+      "price": 70.19,
+      "changePercent": 0.29,
+      "sectorTrend": 0.5777
     },
     {
       "ticker": "UBN",
-      "price": 80.86,
-      "changePercent": -0.57,
-      "sectorTrend": -1.1778
+      "price": 81.0,
+      "changePercent": 0.17,
+      "sectorTrend": 0.5777
     },
     {
       "ticker": "GLC",
-      "price": 131.25,
-      "changePercent": -0.24,
-      "sectorTrend": -1.1778
+      "price": 132.2,
+      "changePercent": 0.72,
+      "sectorTrend": 0.5777
     },
     {
       "ticker": "LUX",
-      "price": 149.54,
-      "changePercent": -1.88,
-      "sectorTrend": -1.1778
+      "price": 147.54,
+      "changePercent": -1.34,
+      "sectorTrend": 0.5777
     }
   ],
   "news": [
     {
-      "id": "d1-news-0",
-      "category": "Geopolitics",
+      "id": "d2-news-0",
+      "category": "Healthcare",
       "impactLevel": "Minor",
-      "headline": "Geopolitics faces minor pressure amid market concerns",
-      "body": "Analysts note negative sentiment around Geopolitics, citing geopolitics-related developments.",
+      "headline": "the Healthcare sector faces minor pressure amid market concerns",
+      "body": "Analysts note negative sentiment around the Healthcare sector, citing healthcare-related developments.",
+      "affectedTickers": [
+        "MDV",
+        "BGN",
+        "CRP",
+        "HLT"
+      ]
+    },
+    {
+      "id": "d2-news-1",
+      "category": "Healthcare",
+      "impactLevel": "Minor",
+      "headline": "BGN faces minor pressure amid market concerns",
+      "body": "Analysts note negative sentiment around BGN, citing healthcare-related developments.",
+      "affectedTickers": [
+        "BGN"
+      ]
+    },
+    {
+      "id": "d2-news-2",
+      "category": "Natural Disasters",
+      "impactLevel": "Minor",
+      "headline": "Natural Disasters faces minor pressure amid market concerns",
+      "body": "Analysts note negative sentiment around Natural Disasters, citing natural disasters-related developments.",
       "affectedTickers": []
     }
   ],
-  "marketSummary": "Day 1: market up 0.17% on average. NXT led gains (+2.05%), LUX lagged (-1.88%)."
+  "marketSummary": "Day 2: market down 0.38% on average. GLC led gains (+0.72%), SRC lagged (-3.06%)."
 }
