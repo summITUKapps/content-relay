@@ -1,13 +1,13 @@
 {
-  "day": 201,
+  "day": 202,
   "seed": 918273,
-  "generatedAtUtc": "2026-10-05T22:29:27.5689247Z",
+  "generatedAtUtc": "2026-10-06T06:02:31.6617822Z",
   "stocks": [
     {
       "ticker": "NXT",
-      "price": 105.0,
-      "changePercent": 5.4,
-      "sectorTrend": 0.8457,
+      "price": 102.21,
+      "changePercent": -2.66,
+      "sectorTrend": 0.1027,
       "dividendPerShare": 0.0,
       "dividendIntervalDays": 0,
       "lastDividendDay": 0,
@@ -15,9 +15,9 @@
     },
     {
       "ticker": "QBT",
-      "price": 83.59,
-      "changePercent": 4.42,
-      "sectorTrend": 0.8457,
+      "price": 83.28,
+      "changePercent": -0.37,
+      "sectorTrend": 0.1027,
       "dividendPerShare": 0.0,
       "dividendIntervalDays": 0,
       "lastDividendDay": 0,
@@ -25,9 +25,9 @@
     },
     {
       "ticker": "OAI",
-      "price": 112.62,
-      "changePercent": 5.43,
-      "sectorTrend": 0.8457,
+      "price": 114.81,
+      "changePercent": 1.94,
+      "sectorTrend": 0.1027,
       "dividendPerShare": 0.0,
       "dividendIntervalDays": 0,
       "lastDividendDay": 0,
@@ -35,9 +35,9 @@
     },
     {
       "ticker": "SNS",
-      "price": 67.7,
-      "changePercent": 2.78,
-      "sectorTrend": 0.8457,
+      "price": 67.74,
+      "changePercent": 0.06,
+      "sectorTrend": 0.1027,
       "dividendPerShare": 0.0,
       "dividendIntervalDays": 0,
       "lastDividendDay": 0,
@@ -45,29 +45,29 @@
     },
     {
       "ticker": "GVT",
-      "price": 64.88,
-      "changePercent": 1.0,
-      "sectorTrend": 0.4007,
+      "price": 65.36,
+      "changePercent": 0.74,
+      "sectorTrend": 0.5106,
       "dividendPerShare": 0.0308,
       "dividendIntervalDays": 7,
       "lastDividendDay": 196,
-      "cumulativeReturnSinceDividend": 0.013908
+      "cumulativeReturnSinceDividend": 0.021409
     },
     {
       "ticker": "TMO",
-      "price": 112.34,
-      "changePercent": 0.06,
-      "sectorTrend": 0.4007,
+      "price": 113.17,
+      "changePercent": 0.74,
+      "sectorTrend": 0.5106,
       "dividendPerShare": 0.1947,
       "dividendIntervalDays": 14,
       "lastDividendDay": 196,
-      "cumulativeReturnSinceDividend": -0.004431
+      "cumulativeReturnSinceDividend": 0.002925
     },
     {
       "ticker": "SRC",
-      "price": 31.72,
-      "changePercent": 1.44,
-      "sectorTrend": 0.4007,
+      "price": 31.93,
+      "changePercent": 0.66,
+      "sectorTrend": 0.5106,
       "dividendPerShare": 0.0,
       "dividendIntervalDays": 0,
       "lastDividendDay": 0,
@@ -75,9 +75,9 @@
     },
     {
       "ticker": "HYD",
-      "price": 102.08,
-      "changePercent": 1.2,
-      "sectorTrend": 0.4007,
+      "price": 102.35,
+      "changePercent": 0.26,
+      "sectorTrend": 0.5106,
       "dividendPerShare": 0.0,
       "dividendIntervalDays": 0,
       "lastDividendDay": 0,
@@ -85,59 +85,59 @@
     },
     {
       "ticker": "APX",
-      "price": 76.58,
-      "changePercent": -0.6,
-      "sectorTrend": -0.7999,
+      "price": 76.88,
+      "changePercent": 0.39,
+      "sectorTrend": -0.1556,
       "dividendPerShare": 0.0592,
       "dividendIntervalDays": 7,
       "lastDividendDay": 196,
-      "cumulativeReturnSinceDividend": -0.003773
+      "cumulativeReturnSinceDividend": 0.00013
     },
     {
       "ticker": "STC",
-      "price": 88.0,
-      "changePercent": -0.68,
-      "sectorTrend": -0.7999,
+      "price": 88.34,
+      "changePercent": 0.39,
+      "sectorTrend": -0.1556,
       "dividendPerShare": 0.1134,
       "dividendIntervalDays": 14,
       "lastDividendDay": 196,
-      "cumulativeReturnSinceDividend": 0.005255
+      "cumulativeReturnSinceDividend": 0.009139
     },
     {
       "ticker": "NVA",
-      "price": 68.95,
-      "changePercent": -0.19,
-      "sectorTrend": -0.7999,
+      "price": 69.19,
+      "changePercent": 0.35,
+      "sectorTrend": -0.1556,
       "dividendPerShare": 0.0633,
       "dividendIntervalDays": 7,
       "lastDividendDay": 196,
-      "cumulativeReturnSinceDividend": 0.001161
+      "cumulativeReturnSinceDividend": 0.004646
     },
     {
       "ticker": "CRD",
-      "price": 64.17,
-      "changePercent": -0.08,
-      "sectorTrend": -0.7999,
+      "price": 63.39,
+      "changePercent": -1.22,
+      "sectorTrend": -0.1556,
       "dividendPerShare": 0.0554,
       "dividendIntervalDays": 14,
       "lastDividendDay": 196,
-      "cumulativeReturnSinceDividend": -0.002333
+      "cumulativeReturnSinceDividend": -0.01446
     },
     {
       "ticker": "MDV",
-      "price": 56.58,
-      "changePercent": 0.02,
-      "sectorTrend": 0.3526,
+      "price": 56.62,
+      "changePercent": 0.07,
+      "sectorTrend": -0.0921,
       "dividendPerShare": 0.0191,
       "dividendIntervalDays": 7,
       "lastDividendDay": 196,
-      "cumulativeReturnSinceDividend": -0.015315
+      "cumulativeReturnSinceDividend": -0.014619
     },
     {
       "ticker": "BGN",
-      "price": 35.33,
-      "changePercent": -0.67,
-      "sectorTrend": 0.3526,
+      "price": 35.25,
+      "changePercent": -0.23,
+      "sectorTrend": -0.0921,
       "dividendPerShare": 0.0,
       "dividendIntervalDays": 0,
       "lastDividendDay": 0,
@@ -145,39 +145,39 @@
     },
     {
       "ticker": "CRP",
-      "price": 98.13,
-      "changePercent": 0.02,
-      "sectorTrend": 0.3526,
+      "price": 98.24,
+      "changePercent": 0.11,
+      "sectorTrend": -0.0921,
       "dividendPerShare": 0.0733,
       "dividendIntervalDays": 14,
       "lastDividendDay": 196,
-      "cumulativeReturnSinceDividend": 0.008219
+      "cumulativeReturnSinceDividend": 0.009349
     },
     {
       "ticker": "HLT",
-      "price": 90.88,
-      "changePercent": 0.26,
-      "sectorTrend": 0.3526,
+      "price": 91.01,
+      "changePercent": 0.14,
+      "sectorTrend": -0.0921,
       "dividendPerShare": 0.0554,
       "dividendIntervalDays": 7,
       "lastDividendDay": 196,
-      "cumulativeReturnSinceDividend": 0.003866
+      "cumulativeReturnSinceDividend": 0.005302
     },
     {
       "ticker": "FMC",
-      "price": 66.16,
-      "changePercent": 0.03,
-      "sectorTrend": -0.1418,
+      "price": 65.61,
+      "changePercent": -0.83,
+      "sectorTrend": -0.1606,
       "dividendPerShare": 0.0961,
       "dividendIntervalDays": 14,
       "lastDividendDay": 196,
-      "cumulativeReturnSinceDividend": 0.018317
+      "cumulativeReturnSinceDividend": 0.009852
     },
     {
       "ticker": "UBN",
-      "price": 75.16,
-      "changePercent": -1.94,
-      "sectorTrend": -0.1418,
+      "price": 74.08,
+      "changePercent": -1.44,
+      "sectorTrend": -0.1606,
       "dividendPerShare": 0.0,
       "dividendIntervalDays": 0,
       "lastDividendDay": 0,
@@ -185,39 +185,39 @@
     },
     {
       "ticker": "GLC",
-      "price": 120.29,
-      "changePercent": -0.23,
-      "sectorTrend": -0.1418,
+      "price": 118.42,
+      "changePercent": -1.55,
+      "sectorTrend": -0.1606,
       "dividendPerShare": 0.0634,
       "dividendIntervalDays": 7,
       "lastDividendDay": 196,
-      "cumulativeReturnSinceDividend": 0.015963
+      "cumulativeReturnSinceDividend": 0.000169
     },
     {
       "ticker": "LUX",
-      "price": 155.62,
-      "changePercent": -0.12,
-      "sectorTrend": -0.1418,
+      "price": 154.97,
+      "changePercent": -0.42,
+      "sectorTrend": -0.1606,
       "dividendPerShare": 0.0606,
       "dividendIntervalDays": 14,
       "lastDividendDay": 196,
-      "cumulativeReturnSinceDividend": 0.030254
+      "cumulativeReturnSinceDividend": 0.025951
     }
   ],
   "news": [
     {
-      "id": "d201-news-0",
-      "category": "Technology",
-      "impactLevel": "Major",
-      "headline": "The Technology sector sees major boost amid strong outlook",
-      "body": "Analysts note positive sentiment around The Technology sector, citing technology-related developments.",
+      "id": "d202-news-0",
+      "category": "Consumer",
+      "impactLevel": "Minor",
+      "headline": "The Consumer sector faces minor pressure amid market concerns",
+      "body": "Analysts note negative sentiment around The Consumer sector, citing consumer-related developments.",
       "affectedTickers": [
-        "NXT",
-        "QBT",
-        "OAI",
-        "SNS"
+        "FMC",
+        "UBN",
+        "GLC",
+        "LUX"
       ]
     }
   ],
-  "marketSummary": "Day 201: market up 0.88% on average. OAI led gains (+5.43%), UBN lagged (-1.94%)."
+  "marketSummary": "Day 202: market down 0.14% on average. OAI led gains (+1.94%), NXT lagged (-2.66%)."
 }
